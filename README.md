@@ -3,7 +3,7 @@ Desc of Kodstar screencasting framework
 
 # Screencasting Framework #
 
-The following document is a written account of the Kodstar screencasting framework.  It should be used as a reference on the topic.
+The following document is a written Desc of Kodstar screencasting framework. It should be used as a reference on the topic.
 
 ## Why you should care about screencasting? ##
 
