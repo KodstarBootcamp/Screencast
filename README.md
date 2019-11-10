@@ -9,7 +9,7 @@ The following document is a written Desc of Kodstar screencasting framework. It 
 
 You're probably aren't going to take the time to read this document if you're not interested, but there are a lot of nice side effects caused by learning how to create quality screencasts.
 
-1. *Communicating more effectively* - At Envy Labs we produce screencasts for our clients all the time.  Whether it's demoing a new feature or for a presentation for an invester, they're often much more effective and pleasent than a phone call or screen sharing. 
+1. *Communicating more effectively* - At Kodstar Labs we produce screencasts for our clients all the time.  Whether it's demoing a new feature or for a presentation for an invester, they're often much more effective and pleasent than a phone call or screen sharing. 
 
 2. *To Become a Teacher* - There is no more noble a profession than passing on knowledge.  There is a great deal of knowledge in the world and with the technology we now have available combined with the tools in this screencast, anyone can teach better than 99% of the people out there.
 
