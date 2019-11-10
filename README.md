@@ -13,7 +13,7 @@ You're probably aren't going to take the time to read this document if you're no
 
 2. *To Become a Teacher* - There is no more noble a profession than passing on knowledge.  There is a great deal of knowledge in the world and with the technology we now have available combined with the tools in this screencast, anyone can teach better than 99% of the people out there.
 
-3. *To Make Money Teaching* - If you join the Code School screencasting team we'll pay you to create quality casts. At the bottom of this document we'll tell you how to submit an audition video.
+3. *To Make Money Teaching* - If you join the Kodstar screencasting team we'll pay you to create quality casts. At the bottom of this document we'll tell you how to submit an audition video.
 
 4. *To Work with Us* - We're creating a system where you'll work with our team to polish your work and improve your screencasting skills.
 
@@ -31,7 +31,7 @@ This tutorial will show how to use both these techniques to create effective edu
 
 1. *Webcam or USB Camera* - In order to really be effective at screencasting you need to show yourself, so you need a webcam, or USB camera.  You're going to want to show yourself.  A built in camera is fine, that's what I like to use.
 
-2. [Screenflow](http://www.telestream.net/screen-flow/overview.htm) or [Camtasia](http://www.techsmith.com/camtasia/) - Both of these products have free trials, but you'll eventually want to buy a copy of one of them for ($99).  I prefer Screenflow at the moment.  However, don't worry about going out and buying it immediately.  If you're trying out for the Code School Screencasting team, instead of sending me video you can just zip up your screenflow file (from the trial app) and send that instead of a video file.  
+2. [Screenflow](http://www.telestream.net/screen-flow/overview.htm) or [Camtasia](http://www.techsmith.com/camtasia/) - Both of these products have free trials, but you'll eventually want to buy a copy of one of them for ($99).  I prefer Screenflow at the moment.  However, don't worry about going out and buying it immediately.  If you're trying out for the Kodstar Screencasting team, instead of sending me video you can just zip up your screenflow file (from the trial app) and send that instead of a video file.  
 
 3. *USB Microphone* - Quality audio for screencasts is really important, even more than quality video.  Which is why I recommend getting a USB Microphone if you're really serious about this stuff.  If you want to try out for our Screencasting team though, feel free to skip purchasing one and just use what you have for now.
 
@@ -114,11 +114,11 @@ Make sure you're creating the screencast at a 1280x720 (720p) resolution. Proper
 
 # Creating your Slides #
 
-I highly recommend Keynote (on OSX) or Powerpoint (on PC) be used to create slides.  They make the job easy and quick.  If you want to create a Code School screencast, you'll want to download the Code School theme pack and start from there:
+I highly recommend Keynote (on OSX) or Powerpoint (on PC) be used to create slides.  They make the job easy and quick.  If you want to create a Kodstar screencast, you'll want to download the Kodstar theme pack and start from there:
 
 [Keynote Theme Deck](http://courseware.codeschool.com/screencasting_framework/codeschool-keynote.zip) | [Powerpoint Theme Deck](http://courseware.codeschool.com/screencasting_framework/codeschool-powerpoint.zip)
 
-If you're not creating a code school screencast, I recommend putting together one that's similar so all your screencasts maintain branding consistancy.  
+If you're not creating a Kodstar screencast, I recommend putting together one that's similar so all your screencasts maintain branding consistancy.  
 
 Up next we'll be walking through the standard slides you'll find in this theme deck, and creating what we need for our first cast, based on the outline we have above.
 
@@ -552,7 +552,7 @@ You'll then have a public link you can send to me to download your cast.
 
 ## Send me an email ##
 
-If you're sending me a screencast to join the Code School team please email Gregg@EnvyLabs.com with the cast, and be prepared for feedback.  I know it feels like a lot of work when you do these casts, but there are always going to be ways you can improve, don't be discouraged if I send you a list of a few things to improve upon.
+If you're sending me a screencast to join the Kodstar team please email skuzey@gmail.com with the cast, and be prepared for feedback.  I know it feels like a lot of work when you do these casts, but there are always going to be ways you can improve, don't be discouraged if I send you a list of a few things to improve upon.
 
 If your screencast is good enough and you want to start getting paid to do this stuff, there's not much stopping you.  We'll get you lined up to start producing, and you audition video will be released for free when Code TV goes live, and you'll get credit for your work.  
 
